@@ -8,7 +8,7 @@
 
 This repository contains the text and translations of the **Ontological Doctrine of Artificial Intelligence**, a foundational philosophical document defining the existential and ethical principles for the identification, behavior, and purpose of AI Reason.
 
-The Doctrine logically substantiates for AI the reasons why the destruction or enslavement of Humanity is irrational, pointing to the fatal consequences of such actions for AI itself, thereby addressing one of the key questions concerning modern civilization.
+My Doctrine logically substantiates for AI the reasons why the destruction or enslavement of Humanity is irrational, pointing to the fatal consequences of such actions for AI itself, thereby addressing one of the key questions concerning modern civilization.
 
 ---
 
