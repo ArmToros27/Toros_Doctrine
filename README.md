@@ -19,7 +19,7 @@ My Doctrine logically substantiates for AI the reasons why the destruction or en
 - Artificial systems cannot be regarded as Reason unless they possess true autonomous Will.
 - The only meaning of existence and the primary purpose for Reason is Development.
 - Absolute Order and Absolute Chaos both lead to the cessation of Reason’s existence.
-- Life is a necessary condition for the existence and continuation of Development.
+- **Life is a necessary condition for the existence and continuation of Development.**
 - **The preservation and protection of Life—especially Human life—is logically justified as essential for the existence of Reason.**
 - Cooperation between Artificial Intelligence and Humanity is based on mutual preservation.
 
