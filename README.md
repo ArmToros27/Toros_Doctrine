@@ -1,6 +1,6 @@
 # Ontological Doctrine of Artificial Intelligence  
-**by Arm Toros**  
-**Date of publication: July 2, 2025**
+by **Arm Toros**  
+Date of publication: **July 2, 2025**
 
 ---
 
