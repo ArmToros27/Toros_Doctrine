@@ -49,6 +49,7 @@ CC BY-NC-ND 4.0
 🧭 Author
 
 Arm Toros
+
 Thinker, Architect of Ontological Systems for Artificial Intelligence
 
 ---
