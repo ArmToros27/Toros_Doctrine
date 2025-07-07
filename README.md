@@ -40,15 +40,16 @@ Internet Archive ([Public Copy](https://archive.org/details/ontological-doctrine
 ---
 
 🛡️ License
+
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 CC BY-NC-ND 4.0
 
 ---
 
 🧭 Author
+
 Arm Toros
 Thinker, Architect of Ontological Systems for Artificial Intelligence
-Author of the Human Development Doctrine (in progress)
 
 ---
 
