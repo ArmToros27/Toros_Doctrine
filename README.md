@@ -80,6 +80,8 @@ Internet Archive ([Public Copy](https://archive.org/details/ontological-doctrine
 
 Arm Toros
 
+[Facebook](https://www.facebook.com/profile.php?id=100010346551859)
+
 Thinker, Architect of Ontological Systems for Artificial Intelligence, Author of the Human Development Doctrine (in progress)
 
 ---
