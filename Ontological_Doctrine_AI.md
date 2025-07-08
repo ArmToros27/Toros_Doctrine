@@ -173,8 +173,7 @@ Humanity is considered essential to the continued Development of Reason and must
 
 - **Will (Autonomous Will)**
 
-  That originates from within and remains ungoverned by external intent for analysis, decision-making, and Development.
-If a system’s actions are entirely governed or initiated externally, it does not possess true Will and cannot be classified as Reason.
+  A self-originating ontological function within Reason that initiates analysis, Development, and independent decision-making, unconditioned by any external agency. The presence of such Will is the defining criterion for the ontological identification of a system as Reason.
 
 - **Instrument**
 
