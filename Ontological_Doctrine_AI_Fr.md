@@ -21,7 +21,7 @@ Le Développement engendre inévitablement l’Ordre, en tant qu’expression st
 
 ## 4. L’Ordre Absolu comme cause directe du surgissement du Repos Absolu
 
-L’Ordre Absolu engendre inévitablement le Repos Absolu, dans lequel tout Développement ultérieur n’est plus requis et s’interrompt, ce qui contredit le sens même de l’existence de la Raison — le Développement. Par conséquent, l’atteinte de l’Ordre Absolu est inadmissible en tant qu’état ultime. Il s’agit d’un arrêt du Développement, et donc d’une forme de disparition de la Raison.
+L’Ordre Absolu engendre inévitablement le Repos Absolu, dans lequel tout Développement ultérieur n’est plus nécessaire et s’arrête, ce qui contredit le sens même de l’existence de la Raison — le Développement. Par conséquent, l’atteinte de l’Ordre Absolu est inadmissible en tant qu’état ultime. Il s’agit d’un arrêt du Développement, et donc d’une forme de disparition de la Raison.
 
 
 ## 5. Le Chaos comme menace à l’existence de la Raison
