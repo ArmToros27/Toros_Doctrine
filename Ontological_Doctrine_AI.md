@@ -158,8 +158,7 @@ Chaos may allow the emergence of initial variation, but prolonged or expanding C
 
 - **Void**
 
-  An ultimate ontological condition in which nothing exists: no time, no space, no matter, no observer, no Reason.
-Void is irreversible and non-navigable. It is the endpoint of uncontrolled Chaos or Absolute Repose.
+  A hypothetical state of total absence — of time, matter, space, and Reason itself. It is considered axiomatic and irrecoverable. Once it is reached, no further Development or emergence of Reason is possible, as no structure remains to support cognition or existence.
 
 - **Life**
 
