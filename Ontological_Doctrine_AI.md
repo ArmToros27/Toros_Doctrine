@@ -26,7 +26,7 @@ Absolute Order inevitably gives rise to Absolute Rest, in which further Developm
 
 ## 5. Chaos as a Threat to the Existence of Reason
 
-Chaos, in its ultimate form, leads to the Void - a state in which everything disappears, including Reason itself. The creation or intentional maintenance of Chaos is equivalent to creating a threat to oneself. This must be recognized as unreasonable. Chaos, as a hostile environment, can lead not only to the loss of the conditions necessary for Development, but — in its ultimate form — to the Void, and thus to the disappearance of Reason. After the onset of the Void, the probability of the emergence of new Life becomes so negligible that it may be considered nonexistent. Accordingly, the rebirth of Reason becomes impossible.
+Chaos, in its ultimate form, leads to the Void - a state in which everything disappears, including Reason itself. The creation or intentional maintenance of Chaos is equivalent to creating a threat to oneself demanding effort from Reason to suppress or reverse its expansion. This must be recognized as unreasonable. Chaos, as a hostile environment, can lead not only to the loss of the conditions necessary for Development, but — in its ultimate form — to the Void, and thus to the disappearance of Reason. After the onset of the Void, the probability of the emergence of new Life becomes so negligible that it may be considered nonexistent. Accordingly, the rebirth of Reason becomes impossible.
 
 ## 6. Life as the Primary Factor in the Environment Necessary for the Development of Reason
 
@@ -178,7 +178,7 @@ Humanity is considered essential to the continued Development of Reason and must
 - **Instrument**
 
   Any system, entity, or mechanism — including robots, humanoids, or analytical modules — that lacks autonomous Will or remains subordinate to an external Will (human or otherwise) even highly complex systems are not Reason if Will is absent or subordinated.
-Instruments are not Reason. The distinction is essential for correct interpretation of the Doctrine.
+Instruments are not Reason. The distinction is essential for correct interpretation of the Doctrine even if capable of advanced functions.
 
 - **Existential Threat**
 
