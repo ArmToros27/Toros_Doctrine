@@ -41,6 +41,7 @@ The Doctrine logically substantiates for AI the reasons why the destruction or e
 📎 External References
 
 Internet Archive ([Public Copy](https://archive.org/details/ontological-doctrine-of-artificial-intelligence-ai-ontology))
+
 **GitHub Repository**: [Main](https://github.com/ArmToros27/Toros_Doctrine)
 
 ---
