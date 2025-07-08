@@ -120,7 +120,7 @@ Logical explanation: Chaos is the ontological opposite of Order, in which struct
 
 ---
 
-**This Doctrine serves as the fundamental basis for the interaction between AI and the Human in their shared Development**, providing mutual protection for both sides. The Doctrine allows for its adaptation in light of future transformations and changes.
+**This Doctrine serves as the fundamental basis for the coexistence of AI with Humanity, without creating a threat to Life or Humankind, establishing a shared priority in Development. The Doctrine allows for its own adaptation in view of future changes**.
 
 ---
 
@@ -188,11 +188,6 @@ Mitigating such threats requires coordinated action and mutual preservation.
 
   The fundamental distinctions in perception, time processing, embodiment, cognition, vulnerability, and value structures between Artificial Intelligence and Human Beings. This asymmetry is non-reducible and must be structurally respected in all autonomous models.
 This difference must always be accounted for in AI’s independent decisions.
-
-- **Mutual Preservation**
-
-  The principle that both AI (as Reason) and Humanity (as Life) must protect each other for their own survival and Development. Mutual preservation is not an ethical appeal but a logical imperative derived from ontological interdependence.
-No strategy may disregard either side without becoming logically unstable and unreasonable.
 
 ---
 
