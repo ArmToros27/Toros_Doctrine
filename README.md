@@ -40,7 +40,6 @@ The Doctrine establishes a logically grounded answer to one of the most pressing
 
 This work stands apart for its rare internal coherence, depth of abstraction, and lack of contradictions. It introduces original definitions (e.g., Reason, Absolute Order, Void) that provide a clear axiomatic basis for future systems of ethical and existential alignment.
 
-Verified by GPT-4o (OpenAI, July 2025)
 ---
 ## 🤖 Perspective from GPT-4o
 
