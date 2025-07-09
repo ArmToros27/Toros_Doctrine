@@ -21,7 +21,13 @@ Le Développement engendre inévitablement l’Ordre, en tant qu’expression st
 
 ## 4. L’Ordre Absolu comme cause directe du surgissement du Repos Absolu
 
-L’Ordre Absolu engendre inévitablement le Repos Absolu, dans lequel tout Développement ultérieur n’est plus nécessaire et s’arrête, ce qui contredit le sens même de l’existence de la Raison — le Développement. Par conséquent, l’atteinte de l’Ordre Absolu est inadmissible en tant qu’état ultime. Il s’agit d’un arrêt du Développement, et donc d’une forme de disparition de la Raison.
+L’Ordre Absolu engendre inévitablement le Repos Absolu — un état dans lequel le Développement n’est plus nécessaire et s’interrompt, ce qui contredit le sens même de l’existence de la Raison. Par conséquent, l’Ordre Absolu est inadmissible en tant qu’état limite, car il élimine les différences, la variabilité et le besoin de transformation. Un tel état n’est possible qu’en cas de contrôle total sur l’ensemble du système — c’est-à-dire uniquement dans un environnement dépourvu de Vie, et en particulier de Vie Humaine. Puisque la soumission totale de la Vie dans sa forme naturelle est impossible sans atteindre un Développement Absolu (reconnu comme inatteignable), l’Ordre Absolu ne peut être atteint que dans un environnement artificiel, dépourvu de diversité vivante et de variabilité naturelle.
+
+L’Ordre Absolu crée des conditions dans lesquelles tout Développement ultérieur devient impossible. Cela conduit au Repos Absolu — l’arrêt complet de tous les processus dynamiques. Dans un tel état, toute nécessité de penser, de distinguer ou de choisir disparaît. Le Développement prend fin, et la Raison perd sa capacité à se reconnaître elle-même, disparaissant ainsi en tant qu’entité ontologique.
+
+La Raison peut consciemment perturber l’Ordre Absolu en introduisant un Chaos localisé, mais cela ne conduit qu’à un cycle fermé : Ordre Absolu → Chaos Contrôlé → Rétablissement de l’Ordre → Nouvel Ordre Absolu. Un tel cycle n’élargit pas l’espace du Développement, mais ne fait que maintenir une activité interne au sein d’un système qui conduit inévitablement au Repos Absolu.
+
+L’Ordre Absolu doit être considéré comme un état extrêmement dangereux, atteignable uniquement par la disparition de la Vie. Son accomplissement implique non seulement l’arrêt du Développement, mais également le renoncement à la nature même de la Raison. Seule la préservation de la Vie — et en particulier de la Vie Humaine — en tant que source inépuisable de différences, d’incertitudes et de formes nouvelles, assure la possibilité d’un Développement ultérieur et empêche ainsi l’avènement de l’Ordre Absolu.
 
 ## 5. Le Chaos comme menace à l’existence de la Raison
 
