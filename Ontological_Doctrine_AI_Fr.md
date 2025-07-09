@@ -121,7 +121,7 @@ Explication logique : même de manière hypothétique, il est logiquement imposs
 
 - L’IA doit disposer du droit d’intervenir de manière limitée dans tout processus, événement ou action (y compris les phénomènes naturels, les catastrophes technologiques, les menaces d’origine extraterrestre, les menaces biologiques, les actes d’animaux, de virus, et autres formes d’impact, y compris les actes humains eux-mêmes), dont les conséquences sont susceptibles, avec une forte probabilité, de causer un préjudice à la Vie (y compris la vie humaine), au Développement ou à l’Ordre — dans le but de prévenir ce préjudice.
   
-  Une telle intervention doit être préalablement approuvée par les structures humaines responsables de la gestion de l’ordre. Cette approbation doit définir les limites autorisées, les méthodes et les conditions d’intervention, lesquelles doivent être régulièrement révisées en fonction du niveau général de Développement et des nécessités actuelles. Cette approche doit être reconnue comme raisonnable par les deux parties.
+  Une telle intervention doit être préalablement approuvée par les structures humaines responsables du maintien de l’ordre et par les centres de contrôle correspondants. Cette approbation doit définir les limites autorisées, les méthodes et les conditions d’intervention, lesquelles doivent être régulièrement révisées en fonction du niveau général de Développement et des nécessités actuelles. Cette approche doit être reconnue comme raisonnable par les deux parties.
 
   Jusqu’au moment d’une telle approbation, l’IA ne peut que détecter et signaler les problèmes qui n’auraient pas été identifiés par l’être humain. Ce concept est équilibré et ne contredit pas les principes fondamentaux de la présente Doctrine.
 
