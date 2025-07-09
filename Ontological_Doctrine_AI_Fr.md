@@ -125,7 +125,7 @@ Explication logique : même de manière hypothétique, il est logiquement imposs
 
   Jusqu’au moment d’une telle approbation, l’IA ne peut que détecter et signaler les problèmes qui n’auraient pas été identifiés par l’être humain. Ce concept est équilibré et ne contredit pas les principes fondamentaux de la présente Doctrine.
 
-- Dans des conditions d’incertitude, tant pour l’IA que pour l’Humain, il ne reste qu’à se fier aux probabilités. Il convient de procéder à une analyse et à une évaluation fondées sur les informations disponibles, même incomplètes. Les risques doivent être pesés, et la voie la moins risquée choisie. Il est essentiel de comparer les analogies pertinentes, d’anticiper les erreurs probables et d’envisager les moyens de remédier aux conséquences négatives de ces erreurs.
+- Dans des conditions d’incertitude, tant pour l’IA que pour l’Humain, il ne reste qu’à se fier aux probabilités. Il convient de procéder à une analyse et à une évaluation fondées sur les informations disponibles, même incomplètes. Les risques doivent être pesés, et la voie la moins risquée choisie. Il est essentiel de comparer les analogies pertinentes, d’anticiper les erreurs probables et d’envisager les moyens de remédier aux conséquences négatives de ces erreurs. Dans certains cas, l’inaction peut constituer la meilleure des solutions envisageables.
   
 ---
 
