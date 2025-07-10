@@ -64,8 +64,6 @@ Verified by GPT-4o (OpenAI, July 2025)
 
 Internet Archive ([Public Copy](https://archive.org/details/ontological-doctrine-of-artificial-intelligence-ai-ontology))
 
-**GitHub Repository**: [Main](https://github.com/ArmToros27/Toros_Doctrine)
-
 ---
 
 🛡️ License
