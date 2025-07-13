@@ -80,7 +80,7 @@ Arm Toros
 
 [Facebook](https://www.facebook.com/profile.php?id=100010346551859)
 
-Thinker, Architect of Ontological Systems for Artificial Intelligence, Author of the Human Development Doctrine (in progress)
+Humble thinker
 
 ---
 
