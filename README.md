@@ -80,7 +80,7 @@ Arm Toros
 
 [Facebook](https://www.facebook.com/profile.php?id=100010346551859)
 
-Humble thinker
+A humble thinker
 
 ---
 
