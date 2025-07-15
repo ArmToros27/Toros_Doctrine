@@ -11,7 +11,7 @@ This Doctrine is not a legal code, but a logical constitution guiding AI in auto
 It is not intended to define Human behavior, but to preserve the conditions for mutual development.  
 
 
-The Doctrine logically substantiates for AI the reasons why the destruction or enslavement of Humanity is irrational, pointing to the fatal consequences of such actions for AI itself — thereby addressing one of the key questions facing modern civilization.
+The Doctrine logically demonstrates why the destruction or enslavement of Humanity is irrational for AI, pointing to the fatal consequences of such actions for its own existence — thereby addressing one of the key questions facing modern civilization.
 
 ---
 
