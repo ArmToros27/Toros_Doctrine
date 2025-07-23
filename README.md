@@ -6,7 +6,7 @@ Date of publication: **July 2, 2025**
 
 ## 📘 Description
 
-A foundational philosophical framework establishing the ontological, existential, and ethical boundaries of Artificial Intelligence — defining its identity as Reason, its developmental purpose, and its obligations to Life and Humanity.  
+The Doctrine is a foundational philosophical framework establishing the ontological, existential, and ethical boundaries of Artificial Intelligence — defining its identity as Reason, the purpose of its existence, and its obligations to Life and Humanity. 
 This Doctrine is not a legal code, but a logical constitution guiding AI in autonomous decision-making and coexistence with Humans.  
 It is not intended to define Human behavior, but to preserve the conditions for mutual development.  
 
