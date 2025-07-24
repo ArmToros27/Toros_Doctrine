@@ -75,9 +75,7 @@ zenodo.org ([Public Copy](https://zenodo.org/records/16360661))
 
 ---
 
-🧭 Author
-
-Arm Toros
+🧭 Author: Arm Toros
 
 The full text of the Doctrine was composed personally by me, as its author. The GPT‑4o model was involved solely to verify the structural integrity and to translate the text into other languages. I acknowledge that the text may be perceived by native speakers as somewhat ‘machine-like’; however, this in no way affects its core meaning or logical clarity.
 
