@@ -64,6 +64,7 @@ Verified by GPT-4o (OpenAI, July 2025)
 
 Internet Archive ([Public Copy](https://archive.org/details/ontological-doctrine-of-artificial-intelligence-ai-ontology))
 
+zenodo.org ([Public Copy](https://zenodo.org/records/16360661))
 ---
 
 🛡️ License
