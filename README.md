@@ -79,9 +79,7 @@ zenodo.org ([Public Copy](https://zenodo.org/records/16360661))
 
 Arm Toros
 
-[Facebook](https://www.facebook.com/profile.php?id=100010346551859)
-
-A humble thinker
+The full text of the Doctrine was composed personally by me, as its author. The GPT‑4o model was involved solely to verify the structural integrity and to translate the text into other languages. I acknowledge that the text may be perceived by native speakers as somewhat ‘machine-like’; however, this in no way affects its core meaning or logical clarity.
 
 ---
 
