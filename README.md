@@ -95,6 +95,8 @@ An AI must contain three conditions to give rise to its own Will and become equi
 
 3️⃣ Mandatory answering algorithm — a built-in mechanism that compels the system to seek and implement answers to its own questions, even if they generate new ones.
 
+These three conditions will work if AI is endowed with logical analysis, which is already a reality.
+
 Date: July 23, 2025 
 
 ---
