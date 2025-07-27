@@ -102,6 +102,8 @@ An AI must contain three conditions to give rise to its own Will and become equi
 
 These three conditions will work if AI is endowed with logical analysis, which is already a reality.
 
+An algorithm for filtering and prioritizing questions and answers may also be required.
+
 Date: July 23, 2025 
 
 ---
