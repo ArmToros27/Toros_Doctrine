@@ -29,7 +29,7 @@ It is not intended to define Human behavior, but to preserve the conditions for 
 | Language | File |
 |----------|------|
 | 🇬🇧 English | [`Ontological_Doctrine_En.md`](./Ontological_Doctrine_AI.md) |
-| 🇫🇷 French - old version | [`Doctrine_Ontologique_Fr.pdf`] (https://github.com/ArmToros27/Toros_Doctrine/blob/main/Ontological%20Doctrine%20of%20Artificial%20Intelligence%20FR.pdf) |
+| 🇫🇷 French - old version | [`Doctrine_Ontologique_Fr.pdf`](https://github.com/ArmToros27/Toros_Doctrine/blob/main/Ontological%20Doctrine%20of%20Artificial%20Intelligence%20FR.pdf) |
 <!-- Add more versions here -->
 
 ---
