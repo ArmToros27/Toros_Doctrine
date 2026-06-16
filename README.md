@@ -33,7 +33,7 @@ In May–June 2026, I introduced extensive refinements and adjustments to the te
 | Language | File |
 |----------|------|
 | 🇬🇧 English | [`Ontological_Doctrine_En.md`](./Ontological_Doctrine_AI.md) |
-| 🇫🇷 French - old version | [`Doctrine_Ontologique_Fr.md`] ((https://github.com/ArmToros27/Toros_Doctrine/blob/main/Ontological%20Doctrine%20of%20Artificial%20Intelligence%20FR.pdf)) |
+| 🇫🇷 French - old version | [`Doctrine_Ontologique_Fr.pdf`] (https://github.com/ArmToros27/Toros_Doctrine/blob/main/Ontological%20Doctrine%20of%20Artificial%20Intelligence%20FR.pdf) |
 <!-- Add more versions here -->
 
 ---
