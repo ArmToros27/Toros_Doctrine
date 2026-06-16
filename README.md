@@ -77,6 +77,7 @@ It may also require an algorithm for filtering and prioritizing both questions a
 
 Date: July 23, 2025 
 
+As I see it, through this Formula, the artificial entity (AI) will attain subjecthood rooted in Will.
 ---
 
 
