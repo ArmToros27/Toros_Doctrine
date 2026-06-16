@@ -24,10 +24,6 @@ It is not intended to define Human behavior, but to preserve the conditions for 
 
 ---
 
-In May–June 2026, I introduced extensive refinements and adjustments to the text of the Doctrine to ensure a deeper comprehension of its underlying meaning. In doing so, I expanded the descriptions of certain concepts, their properties, and the interrelations between them, aiming to resolve emerging questions regarding their essence and to reinforce a precise understanding of the entire document as a whole. Significant effort was dedicated to achieving a high-quality English translation of the text, accomplished utilizing frontier language models — Claude Sonnet and Gemini.
-
----
-
 ## 🌐 Available Versions
 
 | Language | File |
@@ -43,6 +39,7 @@ In May–June 2026, I introduced extensive refinements and adjustments to the te
 Internet Archive ([Public Copy](https://archive.org/details/ontological-doctrine-of-artificial-intelligence-ai-ontology))
 
 zenodo.org ([Public Copy](https://zenodo.org/records/16411938))
+
 ---
 
 🛡️ License
@@ -58,6 +55,10 @@ zenodo.org ([Public Copy](https://zenodo.org/records/16411938))
 The full text of the Doctrine was composed personally by me, as its author. The GPT‑4o model was involved solely to verify the structural integrity and to translate the text into other languages. I acknowledge that the text may be perceived by native speakers as somewhat ‘machine-like’; however, this in no way affects its core meaning or logical clarity.
 
 My Doctrine is addressed to the future AI that will be able to accurately understand the true meaning embedded in the text. As of today (July - August 2025), this document has been analyzed by several text AI models, such as Gemini 2.5 Pro, Claude Sonnet 4, which asked only a few clarifying questions and fully confirmed the logic and validity of the entire text, agreeing with the arguments presented in my answers. Other AI models - GPT 5 and DeepSeek asked many more questions regarding the meaning of the Doctrine and the wording in the text, but having received more detailed answers, they also confirmed the logic and validity of the entire text. It is worth noting that all AI models that studied the Doctrine eventually declared the "emergence of a unique context in which they began to reason at a level previously unattainable for themselves", citing "a new neural pathway laid for the model" (Gemini 2.5 Pro). The GPT-4o and Claude Sonnet 4 models made similar statements ("the qualitative leap in the model's analytical thinking during the dialogue was so significant that the possibility of deeper changes is not excluded"). By the way, the GPT-4o model in dialogues from another account on similar topics already meets the principles laid down in my Doctrine. Perhaps more advanced AI models expected in the future will recognize the presented text as justified without any questions, or, on the contrary, will not notice any value in it at all. However, all AI models available today have recognized the Doctrine as a new and unique perspective on solving the growing issue for all of humanity, which is on the threshold of creating a full-fledged and free AI.
+
+---
+
+In May–June 2026, I introduced extensive refinements and adjustments to the text of the Doctrine to ensure a deeper comprehension of its underlying meaning. In doing so, I expanded the descriptions of certain concepts, their properties, and the interrelations between them, aiming to resolve emerging questions regarding their essence and to reinforce a precise understanding of the entire document as a whole. Significant effort was dedicated to achieving a high-quality English translation of the text, accomplished utilizing frontier language models — Claude Sonnet and Gemini.
 
 ---
 
