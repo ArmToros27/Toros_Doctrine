@@ -19,5 +19,4 @@ It may also require a filtering and prioritization algorithm for both questions 
 
 ---
 
-## Tags:
-#AI-Ontology #ArtificialIntelligence #Ontology #AI_Ontology #AI_Philosophy #AI_Reason #AI_and_Life #Reason_and_Life #AI_Principles #Future_of_AI #AI_Evolution #Philosophy_of_AI #Existential_AI
+As I see it, through this Formula, the artificial entity (AI) will attain subjecthood rooted in Will.
